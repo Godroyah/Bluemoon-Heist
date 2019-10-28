@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 10c91fdfcc69c6c4ab3cd7d5887afb5b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fencepostendbeta:pCube1
+    100004: fencepostendbeta:pCube2
+    100006: fencepostendbeta:pCube4
+    100008: fencepostendbeta:pCube5
+    100010: fencepostendbeta:pCube6
+    100012: fencepostendbeta:pCube7
+    100014: fencepostendbeta:pCube8
+    100016: fencepostendbeta:pCube9
+    100018: fencepostendbeta:pCylinder1
+    100020: fencepostendbeta:pCylinder6
+    100022: fencepostendbeta:pCylinder7
+    100024: fencepostendbeta:pCylinder8
+    100026: fencepostendbeta:pCylinder9
+    100028: fencepostendbeta:transform1
+    100030: fencepostendbeta:transform10
+    100032: fencepostendbeta:transform11
+    100034: fencepostendbeta:transform12
+    100036: fencepostendbeta:transform2
+    100038: fencepostendbeta:transform3
+    100040: fencepostendbeta:transform4
+    100042: fencepostendbeta:transform5
+    100044: fencepostendbeta:transform6
+    100046: fencepostendbeta:transform7
+    100048: fencepostendbeta:transform8
+    100050: fencepostendbeta:transform9
+    100052: pCube1
+    100054: pCube10
+    100056: pCube11
+    100058: pCube2
+    100060: pCube4
+    100062: pCube6
+    100064: pCube7
+    100066: pCube9
+    100068: pCylinder1
+    100070: pCylinder10
+    100072: pCylinder13
+    100074: pCylinder6
+    100076: pCylinder7
+    100078: pCylinder8
+    100080: pCylinder9
+    100082: transform1
+    100084: transform10
+    100086: transform11
+    100088: transform12
+    100090: transform13
+    100092: transform14
+    100094: transform15
+    100096: transform2
+    100098: transform3
+    100100: transform4
+    100102: transform5
+    100104: transform6
+    100106: transform7
+    100108: transform8
+    100110: transform9
+    400000: //RootNode
+    400002: fencepostendbeta:pCube1
+    400004: fencepostendbeta:pCube2
+    400006: fencepostendbeta:pCube4
+    400008: fencepostendbeta:pCube5
+    400010: fencepostendbeta:pCube6
+    400012: fencepostendbeta:pCube7
+    400014: fencepostendbeta:pCube8
+    400016: fencepostendbeta:pCube9
+    400018: fencepostendbeta:pCylinder1
+    400020: fencepostendbeta:pCylinder6
+    400022: fencepostendbeta:pCylinder7
+    400024: fencepostendbeta:pCylinder8
+    400026: fencepostendbeta:pCylinder9
+    400028: fencepostendbeta:transform1
+    400030: fencepostendbeta:transform10
+    400032: fencepostendbeta:transform11
+    400034: fencepostendbeta:transform12
+    400036: fencepostendbeta:transform2
+    400038: fencepostendbeta:transform3
+    400040: fencepostendbeta:transform4
+    400042: fencepostendbeta:transform5
+    400044: fencepostendbeta:transform6
+    400046: fencepostendbeta:transform7
+    400048: fencepostendbeta:transform8
+    400050: fencepostendbeta:transform9
+    400052: pCube1
+    400054: pCube10
+    400056: pCube11
+    400058: pCube2
+    400060: pCube4
+    400062: pCube6
+    400064: pCube7
+    400066: pCube9
+    400068: pCylinder1
+    400070: pCylinder10
+    400072: pCylinder13
+    400074: pCylinder6
+    400076: pCylinder7
+    400078: pCylinder8
+    400080: pCylinder9
+    400082: transform1
+    400084: transform10
+    400086: transform11
+    400088: transform12
+    400090: transform13
+    400092: transform14
+    400094: transform15
+    400096: transform2
+    400098: transform3
+    400100: transform4
+    400102: transform5
+    400104: transform6
+    400106: transform7
+    400108: transform8
+    400110: transform9
+    2100000: lambert2
+    2300000: pCube11
+    3300000: pCube11
+    4300000: pCube11
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

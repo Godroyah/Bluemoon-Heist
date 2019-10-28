@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PlayerSpline
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: L_Hip
+    m_Weight: 1
+  - m_Path: L_Hip/L_Knee
+    m_Weight: 1
+  - m_Path: L_Hip/L_Knee/L_Ankle
+    m_Weight: 1
+  - m_Path: L_Hip/L_Knee/L_Ankle/L_Foot
+    m_Weight: 1
+  - m_Path: pCylinder9
+    m_Weight: 1
+  - m_Path: pCylinder9/Belt
+    m_Weight: 1
+  - m_Path: pCylinder9/Belt/Belt_Buckle
+    m_Weight: 1
+  - m_Path: pCylinder9/Belt/Belt_Buckle/Buckle_Latch
+    m_Weight: 1
+  - m_Path: pCylinder9/Hair
+    m_Weight: 1
+  - m_Path: pCylinder9/Hat
+    m_Weight: 1
+  - m_Path: pCylinder9/Sunglasses
+    m_Weight: 1
+  - m_Path: pCylinder9/transform1
+    m_Weight: 1
+  - m_Path: pCylinder9/transform1/pSphere1
+    m_Weight: 1
+  - m_Path: pCylinder9/transform2
+    m_Weight: 1
+  - m_Path: pCylinder9/transform2/pSphere1 1
+    m_Weight: 1
+  - m_Path: R_Hip
+    m_Weight: 1
+  - m_Path: R_Hip/R_Knee
+    m_Weight: 1
+  - m_Path: R_Hip/R_Knee/R_Ankle
+    m_Weight: 1
+  - m_Path: R_Hip/R_Knee/R_Ankle/R_Foot
+    m_Weight: 1
+  - m_Path: Waist
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/L_Shoulder
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/L_Shoulder/L_Elbow
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/L_Shoulder/L_Elbow/L_Wrist
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/L_Shoulder/L_Elbow/L_Wrist/L_Hand
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/Neck
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/Neck/Head
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/R_Shoulder
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/R_Shoulder/R_Elbow
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/R_Shoulder/R_Elbow/R_Wrist
+    m_Weight: 1
+  - m_Path: Waist/Lower_Back/Chest/Collar/R_Shoulder/R_Elbow/R_Wrist/R_Hand
+    m_Weight: 1
